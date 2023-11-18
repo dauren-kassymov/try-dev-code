@@ -2,12 +2,22 @@
   "name": "try-dev-code",
   "displayName": "try dev code",
   "description": "learn new project",
+  "author": "Dauren K",
+  "publisher": "dnka",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dauren-kassymov/try-dev-code"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.84.0"
   },
   "categories": [
+    "Education",
     "Other"
+  ],
+  "keywords": [
+    "learn", "code", "copy", "twin"
   ],
   "activationEvents": [],
   "main": "./out/extension.js",
